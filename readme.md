@@ -7,4 +7,8 @@
 7. git commit -ammed
 8. gitcheckout -b rama-heroes
 9. git checkout master
+9. git checkout master
+9. git checkout master
+9. git checkout master
+9. git checkout master
 
